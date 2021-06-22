@@ -11,3 +11,15 @@ Apollo Client를 이용해서, client의 token에 접근할 것이다
 yarn add styled-components react-hook-form react-router-dom @apollo/client graphql react-helmet-async
 
 yarn add @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fortawesome/react-fontawesome @fortawesome/free-brands-svg-icons @fortawesome/free-regular-svg-icons
+
+---
+
+# 8.2 What Does Setup Mean?
+
+---
+
+# 8.3 Router Setup part One
+
+---
+
+# 8.4 Router Setup part Two
