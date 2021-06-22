@@ -31,3 +31,7 @@ yarn add @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fo
 ---
 
 # 8.6 Reactive Variables
+
+---
+
+# 8.7 Introduction to Styled Components
