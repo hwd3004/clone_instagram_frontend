@@ -23,3 +23,7 @@ yarn add @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fo
 ---
 
 # 8.4 Router Setup part Two
+
+---
+
+# 8.5 Auth POC
