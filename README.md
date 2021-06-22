@@ -27,3 +27,7 @@ yarn add @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fo
 ---
 
 # 8.5 Auth POC
+
+---
+
+# 8.6 Reactive Variables
