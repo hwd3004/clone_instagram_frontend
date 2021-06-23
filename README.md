@@ -41,3 +41,9 @@ https://www.apollographql.com/docs/react/local-state/reactive-variables/
 ---
 
 # 8.8 Themes on Styled Components
+
+---
+
+# 8.9 GlobalStyles on Styled Components
+
+yarn add styled-reset
