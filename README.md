@@ -32,6 +32,12 @@ yarn add @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons @fo
 
 # 8.6 Reactive Variables
 
+https://www.apollographql.com/docs/react/local-state/reactive-variables/
+
 ---
 
 # 8.7 Introduction to Styled Components
+
+---
+
+# 8.8 Themes on Styled Components
