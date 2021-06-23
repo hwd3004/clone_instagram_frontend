@@ -69,3 +69,7 @@ yarn add prop-types
 ---
 
 # 10.5 Forms in React
+
+---
+
+# 10.6 Helmet Component
