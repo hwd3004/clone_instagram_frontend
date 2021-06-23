@@ -77,3 +77,9 @@ yarn add prop-types
 ---
 
 # 10.7 React Hook Form
+
+---
+
+# 10.8 React Hook Form is Awesome
+
+yarn add react-hook-form@6.15.1
