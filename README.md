@@ -51,3 +51,7 @@ yarn add styled-reset
 ---
 
 # 10.1 Login UI Clone
+
+---
+
+# 10.2 Cleaning Login Code
