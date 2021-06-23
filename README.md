@@ -55,3 +55,9 @@ yarn add styled-reset
 ---
 
 # 10.2 Cleaning Login Code
+
+---
+
+# 10.3 Shared Components
+
+yarn add prop-types
