@@ -103,3 +103,7 @@ yarn add react-hook-form@6.15.1
 ---
 
 # 10.13 Redirecting Users
+
+---
+
+# 10.14 Dark Mode
