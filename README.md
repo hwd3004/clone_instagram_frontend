@@ -124,3 +124,12 @@ yarn add react-hook-form@6.15.1
 
 # 11.2 Header part Three
 
+---
+
+# 11.3 Avatar
+
+```javascript
+<Avatar url={data?.me?.avatar} />
+```
+
+?을 붙이면 리액트가, 데이터가 올때까지 기다려준다
