@@ -99,3 +99,7 @@ yarn add react-hook-form@6.15.1
 ---
 
 # 10.12 Create Account
+
+---
+
+# 10.13 Redirecting Users
