@@ -115,3 +115,12 @@ yarn add react-hook-form@6.15.1
 ---
 
 # 11.1 Header part Two
+
+사용자가 토큰을 의도적으로 수정하여 접근 시에 대한 해결법
+
+백엔드 코드를 수정해주어야한다
+
+---
+
+# 11.2 Header part Three
+
