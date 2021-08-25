@@ -141,3 +141,7 @@ yarn add react-hook-form@6.15.1
 ---
 
 # 11.5 Photo Component part Two
+
+---
+
+# 11.6 isLiked
