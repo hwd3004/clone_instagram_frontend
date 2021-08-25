@@ -153,3 +153,7 @@ yarn add react-hook-form@6.15.1
 ---
 
 # 11.8 Refetching Queries / 11.9 writeFragment
+
+---
+
+# 11.10 readFragment
