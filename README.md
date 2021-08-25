@@ -145,3 +145,7 @@ yarn add react-hook-form@6.15.1
 ---
 
 # 11.6 isLiked
+
+---
+
+# 11.7 Liking Photos
