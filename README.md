@@ -165,3 +165,11 @@ yarn add react-hook-form@6.15.1
 ---
 
 # 11.12 Comments part Two
+
+---
+
+# 11.13 Parsing Hashtags
+
+https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/String/replace
+
+yarn add sanitize-html
