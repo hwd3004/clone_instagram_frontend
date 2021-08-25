@@ -149,3 +149,7 @@ yarn add react-hook-form@6.15.1
 ---
 
 # 11.7 Liking Photos
+
+---
+
+# 11.8 Refetching Queries / 11.9 writeFragment
