@@ -173,3 +173,7 @@ yarn add react-hook-form@6.15.1
 https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/String/replace
 
 yarn add sanitize-html
+
+---
+
+# 11.14 Parsing Hashtags part Two
